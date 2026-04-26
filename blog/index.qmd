@@ -1,0 +1,7 @@
+---
+title: "Blog"
+---
+
+Coming soon. I plan to write regularly about the economics of AI, AI safety policy, and related topics.
+
+In the meantime, see my [research](../research.qmd) and [policy writing](../writing.qmd).

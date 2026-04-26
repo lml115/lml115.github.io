@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF)](TODO_CV_PDF_LINK){.btn .btn-outline-primary .btn-lg}
+
+*Last updated: TODO_DATE*

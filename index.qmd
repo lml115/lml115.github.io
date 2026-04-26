@@ -1,0 +1,50 @@
+---
+title: "Lee M. Lockwood"
+subtitle: "Professor of Economics, University of Virginia"
+---
+
+<!--
+To add a profile photo, save your headshot as photo.jpg in this directory,
+then replace the paragraph below with a grid layout:
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+![Lee M. Lockwood](photo.jpg){width=100% style="border-radius:4px;"}
+:::
+::: {.g-col-12 .g-col-md-9}
+[bio paragraph here]
+:::
+:::
+-->
+
+I am an economist at the University of Virginia focused on the economic implications of transformative AI, with particular emphasis on AI safety. My research applies tools from price theory and public finance to questions about how AI development can go well—and what policy can do to make that more likely. I also maintain an ongoing research program in social insurance and the economics of aging.
+
+**PhD, Economics, University of Chicago**
+
+---
+
+## Affiliations
+
+- Professor of Economics, [University of Virginia](https://economics.virginia.edu)
+- Research Associate, [National Bureau of Economic Research](https://www.nber.org)
+- Associated Faculty, [EconTAI](https://econtai.org)
+- Member of the Board of Editors, [American Economic Journal: Economic Policy](https://www.aeaweb.org/journals/pol)
+- Member, [CEPR Research and Policy Network in AI](https://cepr.org/network/networks/ai)
+- Faculty Advisor, [UVA AI Safety Initiative (VAISI)](https://vaisi.org)
+
+---
+
+## Contact
+
+[leelockwood@virginia.edu](mailto:leelockwood@virginia.edu)
+
+Department of Economics, University of Virginia
+248 McCormick Road, Charlottesville, VA 22903
+
+[Google Scholar](TODO_GOOGLE_SCHOLAR_LINK) · [CV](cv.qmd) · Twitter/X *(coming soon)*
+
+---
+
+## Recognition
+
+Winner, [2019 TIAA Paul A. Samuelson Award](https://www.tiaa.org/public/about-tiaa/research/paul-samuelson-award) for Outstanding Scholarly Writing on Lifelong Financial Security

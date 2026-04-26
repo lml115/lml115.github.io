@@ -1,0 +1,36 @@
+---
+title: "Writing & Policy"
+toc: true
+toc-depth: 2
+---
+
+## Policy & Featured Writing
+
+**[Public Finance in the Age of AI: A Primer](TODO_PDF_LINK)**\
+*The Economics of Transformative AI*, NBER Volume, November 2025\
+[PDF](TODO_PDF_LINK)\
+*Featured by [Anthropic](https://www.anthropic.com), [Brookings Institution](https://www.brookings.edu), and The Digitalist Papers*
+
+---
+
+**[TODO: Title of Digitalist Piece](TODO_DIGITALIST_LINK)**\
+*The Digitalist Papers*, TODO_YEAR\
+[Link](TODO_DIGITALIST_LINK)
+
+---
+
+**[TODO: Title of Brookings Post](TODO_BROOKINGS_LINK)**\
+*Brookings Institution*, TODO_YEAR\
+[Link](TODO_BROOKINGS_LINK)
+
+---
+
+## Media & Policy Engagement
+
+I have briefed congressional staff and spoken with journalists on public finance and AI policy. For media inquiries, contact me at [leelockwood@virginia.edu](mailto:leelockwood@virginia.edu).
+
+---
+
+## Blog
+
+Coming soon. I plan to write regularly about the economics of AI, AI safety policy, and related topics.

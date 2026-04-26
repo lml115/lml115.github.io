@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Lee M. Lockwood"
+  description: "Professor of Economics, University of Virginia. Research on AI safety, public finance, and social insurance."
+  navbar:
+    title: "Lee M. Lockwood"
+    right:
+      - href: research.qmd
+        text: Research
+      - href: writing.qmd
+        text: Writing & Policy
+      - href: blog/index.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    center: "Department of Economics, University of Virginia"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

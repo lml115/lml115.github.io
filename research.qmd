@@ -22,10 +22,10 @@ toc-depth: 2
 
 ### Publications
 
-**[Public Finance in the Age of AI: A Primer](TODO_PDF_LINK)**\
-*The Economics of Transformative AI*, NBER Volume, November 2025\
-[PDF](TODO_PDF_LINK)\
-*Also featured by [Anthropic](https://www.anthropic.com), [Brookings Institution](https://www.brookings.edu), and The Digitalist Papers*
+**[Public Finance in the Age of AI: A Primer](https://drive.google.com/file/d/1DVuefzssWOKFXyxq1NIQm5KpcA9LbQDk/view?usp=sharing)**\
+*[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025\
+[PDF](https://drive.google.com/file/d/1DVuefzssWOKFXyxq1NIQm5KpcA9LbQDk/view?usp=sharing)\
+*Also featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [Brookings Institution](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/), and [The Digitalist Papers](https://www.digitalistpapers.com/vol2/korineklockwood)*
 
 ---
 
@@ -33,54 +33,69 @@ toc-depth: 2
 
 ### Working Papers
 
-**[Long-Run Intergenerational Effects of Social Security](TODO_PDF_LINK)**\
+**[Long-Run Intergenerational Effects of Social Security](https://drive.google.com/file/d/1gF102f69kDERs0vcb1TSRU0Mbbdpe2SV/view?usp=sharing)**\
 with Daniel Fetter and Paul Mohnen, November 2024\
-[PDF](TODO_PDF_LINK)
+[PDF](https://drive.google.com/file/d/1gF102f69kDERs0vcb1TSRU0Mbbdpe2SV/view?usp=sharing)
 
 ---
 
-**[Renting Hedges Wage Risk](TODO_PDF_LINK)**\
+**[Renting Hedges Wage Risk](https://www.dropbox.com/s/9ss92aw8aax89rk/RTCpublic.pdf?dl=0)**\
 with Lorenz Kueng and Pinchuan Ong, October 2024\
-[PDF](TODO_PDF_LINK)
+[PDF](https://www.dropbox.com/s/9ss92aw8aax89rk/RTCpublic.pdf?dl=0)
 
 ---
 
 ### Published Articles
 
-**[Health Insurance and Consumption Risk](TODO_PDF_LINK)**\
+**[Health Insurance and Consumption Risk](https://drive.google.com/file/d/1aEaUfu7yw91PcMSff_ijq0Bn7BfmSH9P/view?usp=sharing)**\
 *Review of Economics and Statistics*, accepted March 2025\
-[PDF](TODO_PDF_LINK)
+[PDF](https://drive.google.com/file/d/1aEaUfu7yw91PcMSff_ijq0Bn7BfmSH9P/view?usp=sharing)
 
 ---
 
-**[Beyond Health: Non-Health Risk and the Value of Disability Insurance](TODO_PDF_LINK)**\
+**[Beyond Health: Non-Health Risk and the Value of Disability Insurance](https://drive.google.com/file/d/1bQ4Phn5EsNHz2Ok98sfKmlzGoAbLem3R/view?usp=sharing)**\
 with Manasi Deshpande\
 *Econometrica*, 90(4): 1781–1810, July 2022\
-[PDF](TODO_PDF_LINK) · [Online Appendix](TODO_APPENDIX_LINK) · [NBER #28852](https://www.nber.org/papers/w28852)
+[PDF](https://drive.google.com/file/d/1bQ4Phn5EsNHz2Ok98sfKmlzGoAbLem3R/view?usp=sharing) · [Appendix & Publisher](https://www.econometricsociety.org/publications/econometrica/2022/07/01/beyond-health-nonhealth-risk-and-value-disability-insurance) · [NBER #28852](https://www.nber.org/papers/w28852)
 
 ---
 
-**[Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](TODO_PDF_LINK)**\
+**[Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](https://drive.google.com/file/d/1BHxt3YapNF2zJ0t8SKMmyWeebpS97E6Y/view?usp=sharing)**\
 with Ethan Lieber\
 *American Economic Review*, 109(4): 1461–1485, April 2019\
-[PDF](TODO_PDF_LINK) · [Online Appendix](TODO_APPENDIX_LINK) · [NBER #24267](https://www.nber.org/papers/w24267)
+[PDF](https://drive.google.com/file/d/1BHxt3YapNF2zJ0t8SKMmyWeebpS97E6Y/view?usp=sharing) · [Online Appendix](https://drive.google.com/file/d/1ByOjnLgfj23qSiz1wBhcRnPFaBUm2xTM/view?usp=sharing) · [NBER #24267](https://www.nber.org/papers/w24267)
 
 ---
 
-**[Incidental Bequests and the Choice to Self-Insure Late-Life Risks](TODO_PDF_LINK)**\
+**[Incidental Bequests and the Choice to Self-Insure Late-Life Risks](https://drive.google.com/file/d/1faU_natnCZEDrgGYq7QBg1s3U8DHNvHg/view?usp=sharing)**\
 *American Economic Review*, 108(9): 2513–2550, September 2018\
-*Winner, 2019 TIAA Paul A. Samuelson Award*\
-[PDF](TODO_PDF_LINK) · [Online Appendix](TODO_APPENDIX_LINK) · [NBER #20745](https://www.nber.org/papers/w20745)
+*Winner, [2019 TIAA Paul A. Samuelson Award](https://www.tiaa.org/public/institute/about/events/2019-tiaa-paul-samuelson-award-ceremony)*\
+[PDF](https://drive.google.com/file/d/1faU_natnCZEDrgGYq7QBg1s3U8DHNvHg/view?usp=sharing) · [Online Appendix](https://drive.google.com/file/d/1CSl-UqoUXIv7Rjv8tJWG3wod55cBu5wI/view?usp=sharing) · [NBER #20745](https://www.nber.org/papers/w20745)
 
 ---
 
-**[Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program](TODO_PDF_LINK)**\
+**[Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program](https://drive.google.com/file/d/1uAkfMwHWXxUW42xCrGpa6MR_AzFsuiD-/view?usp=sharing)**\
 with Daniel Fetter\
 *American Economic Review*, 108(8): 2174–2211, August 2018\
-[PDF](TODO_PDF_LINK) · [Online Appendix](TODO_APPENDIX_LINK) · [NBER #22132](https://www.nber.org/papers/w22132)
+[PDF](https://drive.google.com/file/d/1uAkfMwHWXxUW42xCrGpa6MR_AzFsuiD-/view?usp=sharing) · [Online Appendix](https://drive.google.com/file/d/1ISF7-kCfI-mcb34h7xdZrEOd_viqimdE/view?usp=sharing) · [NBER #22132](https://www.nber.org/papers/w22132)
 
 ---
 
-**[Bequest Motives and the Annuity Puzzle](TODO_PDF_LINK)**\
+**[Bequest Motives and the Annuity Puzzle](https://drive.google.com/file/d/1hUEe2F0lcLUjA1d0M7Dw3YeFZFKisH8t/view?usp=sharing)**\
 *Review of Economic Dynamics*, 15(2): 226–243, April 2012\
-[PDF](TODO_PDF_LINK)
+[PDF](https://drive.google.com/file/d/1hUEe2F0lcLUjA1d0M7Dw3YeFZFKisH8t/view?usp=sharing)
+
+---
+
+## Other Publications
+
+**[Perspective piece on "One size fits all? Drawdown structures in Australia and The Netherlands"](https://drive.google.com/file/d/1bogNc3SOmLtiJvNRbdjQ0MlAmv9QrX0I/view?usp=sharing)**\
+*Journal of the Economics of Ageing*, November 2018\
+[PDF](https://drive.google.com/file/d/1bogNc3SOmLtiJvNRbdjQ0MlAmv9QrX0I/view?usp=sharing)
+
+---
+
+**[Geographic Variation in Health Care: The Role of Private Markets](https://drive.google.com/file/d/1Ow2lYUjsqGwoKR3-mqo5AXSiPmmJm7tJ/view?usp=sharing)**\
+with Tomas Philipson, Seth Seabury, Darius Lakdawalla, and Dana Goldman\
+*Brookings Papers on Economic Activity*, 325–361, Spring 2010\
+[PDF](https://drive.google.com/file/d/1Ow2lYUjsqGwoKR3-mqo5AXSiPmmJm7tJ/view?usp=sharing)

@@ -1,4 +1,5 @@
 /.quarto/
 /_site/
+papers/*.pdf:com.dropbox.attrs
 
 **/*.quarto_ipynb

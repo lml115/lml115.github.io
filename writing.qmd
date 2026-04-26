@@ -6,10 +6,10 @@ toc-depth: 2
 
 ## Policy & Featured Writing
 
-**[Public Finance in the Age of AI: A Primer](https://drive.google.com/file/d/1DVuefzssWOKFXyxq1NIQm5KpcA9LbQDk/view?usp=sharing)**\
+**[Public Finance in the Age of AI: A Primer](papers/korinek-lockwood-2025-public-finance-ai.pdf)**\
 with Anton Korinek\
 *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025\
-[PDF](https://drive.google.com/file/d/1DVuefzssWOKFXyxq1NIQm5KpcA9LbQDk/view?usp=sharing) · [Anthropic](https://www.anthropic.com/research/economic-policy-responses) · [Brookings](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/) · [Digitalist](https://www.digitalistpapers.com/vol2/korineklockwood)
+[PDF](papers/korinek-lockwood-2025-public-finance-ai.pdf) · [Anthropic](https://www.anthropic.com/research/economic-policy-responses) · [Brookings](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/) · [Digitalist](https://www.digitalistpapers.com/vol2/korineklockwood)
 
 ---
 

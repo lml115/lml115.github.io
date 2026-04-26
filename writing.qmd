@@ -8,31 +8,22 @@ toc-depth: 2
 
 **[Public Finance in the Age of AI: A Primer](papers/korinek-lockwood-2025-public-finance-ai.pdf)**\
 with Anton Korinek\
-*[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025\
-[PDF](papers/korinek-lockwood-2025-public-finance-ai.pdf) · [Anthropic](https://www.anthropic.com/research/economic-policy-responses) · [Brookings](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/) · [Digitalist](https://www.digitalistpapers.com/vol2/korineklockwood)
+*[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025
 
 ---
 
 **[The Future of Tax Policy: A Public Finance Framework for the Age of AI](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/)**\
 with Anton Korinek\
-*Brookings Institution*, January 8, 2026\
-[Link](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/)
+*Brookings Institution*, January 2026
 
 ---
 
 **[Preserving Fiscal Stability in the Age of Transformative AI](https://www.digitalistpapers.com/vol2/korineklockwood)**\
 with Anton Korinek\
-*The Digitalist Papers*, Volume 2, December 2025\
-[Link](https://www.digitalistpapers.com/vol2/korineklockwood)
+*The Digitalist Papers*, Volume 2, December 2025
 
 ---
 
 ## Media & Policy Engagement
 
-I have briefed congressional staff and spoken with journalists on public finance and AI policy. For media inquiries, contact me at [leelockwood@virginia.edu](mailto:leelockwood@virginia.edu).
-
----
-
-## Blog
-
-Coming soon. I plan to write regularly about the economics of AI, AI safety policy, and related topics.
+I engage with policymakers and journalists on AI and public finance. For inquiries, contact me at [leelockwood@virginia.edu](mailto:leelockwood@virginia.edu).

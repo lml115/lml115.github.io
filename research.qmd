@@ -4,29 +4,37 @@ toc: true
 toc-depth: 2
 ---
 
-## AI & Technology
+## Artificial Intelligence
 
 ### Work in Progress
 
-**The Economics of AI Safety: Applying Price Theory to Alignment and Governance**
+**Economic Analysis of AI Safety Policies**
 
-*(Draft in preparation. Description coming soon.)*
-
----
-
-**Public Finance in the Age of AI: Fiscal Policy, Redistribution, and Labor Market Transitions**
-
-*(Work in progress. Description coming soon.)*
+*(Draft coming soon.)*
 
 ---
 
 ### Publications
 
 **[Public Finance in the Age of AI: A Primer](papers/korinek-lockwood-2025-public-finance-ai.pdf)**\
-with Anton Korinek\
-*[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025\
-[PDF](papers/korinek-lockwood-2025-public-finance-ai.pdf)\
-*Also featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [Brookings Institution](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/), and [The Digitalist Papers](https://www.digitalistpapers.com/vol2/korineklockwood)*
+with [Anton Korinek](https://www.korinek.com/)\
+In *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025\
+[NBER #34873](https://www.nber.org/papers/w34873)\
+*Featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [The Guardian](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed), and [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/02/public-finance-in-the-age-of-ai-a-primer.html)*
+
+---
+
+### Other Publications
+
+**[The Future of Tax Policy: A Public Finance Framework for the Age of AI](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/)**\
+with [Anton Korinek](https://www.korinek.com/)\
+*Brookings Institution*, January 2026
+
+---
+
+**[Preserving Fiscal Stability in the Age of Transformative AI](https://www.digitalistpapers.com/vol2/korineklockwood)**\
+with [Anton Korinek](https://www.korinek.com/)\
+*The Digitalist Papers*, Volume 2, December 2025
 
 ---
 
@@ -35,68 +43,62 @@ with Anton Korinek\
 ### Working Papers
 
 **[Long-Run Intergenerational Effects of Social Security](papers/fetter-lockwood-mohnen-2024-social-security.pdf)**\
-with Daniel Fetter and Paul Mohnen, November 2024\
-[PDF](papers/fetter-lockwood-mohnen-2024-social-security.pdf)
+with [Daniel Fetter](https://sites.google.com/view/daniel-fetter) and [Paul Mohnen](https://sites.google.com/view/paulmohnen), November 2024
 
 ---
 
-**[Renting Insures Wage Risk](papers/kueng-lockwood-2024-renting.pdf)**\
-with Lorenz Kueng and Pinchuan Ong, October 2024\
-[PDF](papers/kueng-lockwood-2024-renting.pdf)
+**[Renting Hedges Wage Risk](papers/kueng-lockwood-2024-renting.pdf)**\
+with [Lorenz Kueng](https://lorenzkueng.droppages.com/) and [Pinchuan Ong](https://www.pinchuanong.com/), October 2024
 
 ---
 
 ### Published Articles
 
 **[Health Insurance and Consumption Risk](papers/lockwood-2025-health-insurance.pdf)**\
-*Review of Economics and Statistics*, accepted March 2025\
-[PDF](papers/lockwood-2025-health-insurance.pdf)
+***Review of Economics and Statistics***, accepted March 2025
 
 ---
 
 **[Beyond Health: Non-Health Risk and the Value of Disability Insurance](papers/deshpande-lockwood-2022-disability-insurance.pdf)**\
-with Manasi Deshpande\
-*Econometrica*, 90(4): 1781–1810, July 2022\
-[PDF](papers/deshpande-lockwood-2022-disability-insurance.pdf) · [Appendix & Publisher](https://www.econometricsociety.org/publications/econometrica/2022/07/01/beyond-health-nonhealth-risk-and-value-disability-insurance) · [NBER #28852](https://www.nber.org/papers/w28852)
+with [Manasi Deshpande](https://sites.google.com/view/mdeshpande)\
+***Econometrica***, 90(4): 1781–1810, July 2022\
+[Appendix & Publisher](https://www.econometricsociety.org/publications/econometrica/2022/07/01/beyond-health-nonhealth-risk-and-value-disability-insurance) · [NBER #28852](https://www.nber.org/papers/w28852)
 
 ---
 
 **[Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](papers/lieber-lockwood-2019-medicaid-home-care.pdf)**\
-with Ethan Lieber\
-*American Economic Review*, 109(4): 1461–1485, April 2019\
-[PDF](papers/lieber-lockwood-2019-medicaid-home-care.pdf) · [Online Appendix](papers/lieber-lockwood-2019-medicaid-home-care-appendix.pdf) · [NBER #24267](https://www.nber.org/papers/w24267)
+with [Ethan Lieber](https://www3.nd.edu/~elieber/)\
+***American Economic Review***, 109(4): 1461–1485, April 2019\
+[Online Appendix](papers/lieber-lockwood-2019-medicaid-home-care-appendix.pdf) · [NBER #24267](https://www.nber.org/papers/w24267)
 
 ---
 
 **[Incidental Bequests and the Choice to Self-Insure Late-Life Risks](papers/lockwood-2018-incidental-bequests.pdf)**\
-*American Economic Review*, 108(9): 2513–2550, September 2018\
+***American Economic Review***, 108(9): 2513–2550, September 2018\
 *Winner, [2019 TIAA Paul A. Samuelson Award](https://www.tiaa.org/public/institute/about/events/2019-tiaa-paul-samuelson-award-ceremony)*\
-[PDF](papers/lockwood-2018-incidental-bequests.pdf) · [Online Appendix](papers/lockwood-2018-incidental-bequests-appendix.pdf) · [NBER #20745](https://www.nber.org/papers/w20745)
+[Online Appendix](papers/lockwood-2018-incidental-bequests-appendix.pdf) · [NBER #20745](https://www.nber.org/papers/w20745)
 
 ---
 
 **[Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program](papers/fetter-lockwood-2018-old-age-assistance.pdf)**\
-with Daniel Fetter\
-*American Economic Review*, 108(8): 2174–2211, August 2018\
-[PDF](papers/fetter-lockwood-2018-old-age-assistance.pdf) · [Online Appendix](papers/fetter-lockwood-2018-old-age-assistance-appendix.pdf) · [NBER #22132](https://www.nber.org/papers/w22132)
+with [Daniel Fetter](https://sites.google.com/view/daniel-fetter)\
+***American Economic Review***, 108(8): 2174–2211, August 2018\
+[Online Appendix](papers/fetter-lockwood-2018-old-age-assistance-appendix.pdf) · [NBER #22132](https://www.nber.org/papers/w22132)
 
 ---
 
 **[Bequest Motives and the Annuity Puzzle](papers/lockwood-2012-bequest-annuity-puzzle.pdf)**\
-*Review of Economic Dynamics*, 15(2): 226–243, April 2012\
-[PDF](papers/lockwood-2012-bequest-annuity-puzzle.pdf)
+***Review of Economic Dynamics***, 15(2): 226–243, April 2012
 
 ---
 
-## Other Publications
-
-**[Perspective piece on "One size fits all? Drawdown structures in Australia and The Netherlands"](papers/lockwood-2018-jea-comment.pdf)**\
-*Journal of the Economics of Ageing*, November 2018\
-[PDF](papers/lockwood-2018-jea-comment.pdf)
-
----
+### Other Publications
 
 **[Geographic Variation in Health Care: The Role of Private Markets](papers/philipson-et-al-2010-geographic-variation.pdf)**\
-with Tomas Philipson, Seth Seabury, Darius Lakdawalla, and Dana Goldman\
-*Brookings Papers on Economic Activity*, 325–361, Spring 2010\
-[PDF](papers/philipson-et-al-2010-geographic-variation.pdf)
+with [Tomas Philipson](https://harris.uchicago.edu/directory/tomas-philipson), [Seth Seabury](https://schaeffer.usc.edu/people/seth-seabury-ph-d/), [Darius Lakdawalla](https://schaeffer.usc.edu/people/darius-lakdawalla-ph-d/), and [Dana Goldman](https://schaeffer.usc.edu/people/dana-goldman-ph-d/)\
+***Brookings Papers on Economic Activity***, 325–361, Spring 2010
+
+---
+
+**[Perspective piece on "One size fits all? Drawdown structures in Australia and The Netherlands"](papers/lockwood-2018-jea-comment.pdf)**\
+***Journal of the Economics of Ageing***, November 2018

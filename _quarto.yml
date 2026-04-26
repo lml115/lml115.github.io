@@ -11,8 +11,6 @@ website:
         text: Research
       - href: writing.qmd
         text: Writing & Policy
-      - href: blog/index.qmd
-        text: Blog
       - href: cv.qmd
         text: CV
   page-footer:

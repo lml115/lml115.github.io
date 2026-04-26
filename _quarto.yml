@@ -3,8 +3,10 @@ project:
 
 website:
   title: "Lee M. Lockwood"
-  description: "Professor of Economics, University of Virginia. Research on AI safety, public finance, and social insurance."
+  description: "Professor of Economics, University of Virginia. Research on AI economics, public finance, and social insurance."
+  site-url: "https://leemlockwood.com"
   navbar:
+    pinned: true
     title: "Lee M. Lockwood"
     right:
       - href: research.qmd
@@ -15,6 +17,8 @@ website:
         text: CV
   page-footer:
     center: "Department of Economics, University of Virginia"
+  open-graph: true
+  twitter-card: true
 
 format:
   html:

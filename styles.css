@@ -59,3 +59,37 @@ hr {
   font-size: 0.85rem;
   color: #6c757d;
 }
+
+/* === Abstract toggles === */
+details {
+  margin-top: 0.3rem;
+}
+
+details summary {
+  font-size: 0.85rem;
+  color: #6c757d;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+}
+
+details summary::before {
+  content: "▸ ";
+}
+
+details[open] summary::before {
+  content: "▾ ";
+}
+
+details summary:hover {
+  color: #1a4971;
+}
+
+details > p {
+  font-size: 0.9rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0;
+  padding-left: 1rem;
+  border-left: 2px solid #dee2e6;
+  color: #495057;
+}

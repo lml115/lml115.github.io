@@ -1,0 +1,50 @@
+# Lee M. Lockwood
+
+> Professor of Economics at the University of Virginia. Research on the economics of transformative AI (especially AI safety), public finance, and social insurance.
+
+## About
+
+Lee M. Lockwood is a Professor of Economics at the University of Virginia. He is a Research Associate at the National Bureau of Economic Research (NBER), Associated Faculty at EconTAI, Member of the CEPR Research and Policy Network in AI, and Faculty Advisor to the UVA AI Safety Initiative (VAISI). His research applies price theory and public finance to understand how policy can steer AI development toward good outcomes. He also works on social insurance, health economics, and the economics of aging.
+
+Contact: leelockwood@virginia.edu
+Department of Economics, University of Virginia, 248 McCormick Road, Charlottesville, VA 22903
+Google Scholar: https://scholar.google.com/citations?user=7dlv01MAAAAJ&hl=en
+
+## Research
+
+Full list of papers with abstracts: https://leemlockwood.com/research.html
+
+### Artificial Intelligence
+
+- [Public Finance in the Age of AI: A Primer](https://leemlockwood.com/papers/korinek-lockwood-2025-public-finance-ai.pdf) (with Anton Korinek). In *The Economics of Transformative AI*, NBER Volume, 2025. Examines optimal taxation across two stages of AI-driven transformation—labor displacement and autonomous AGI systems—and evaluates specific proposals including robot taxes, compute taxes, sovereign wealth funds, and windfall clauses.
+
+- Economic Analysis of AI Safety Policies (draft coming soon).
+
+### Social Insurance & Economics of Aging
+
+- [Long-Run Intergenerational Effects of Social Security](https://leemlockwood.com/papers/fetter-lockwood-mohnen-2024-social-security.pdf) (with Daniel Fetter and Paul Mohnen), 2024. Finds that Social Security coverage relaxed a "location constraint" on adult children, enabling migration to better-matched labor markets and improving their long-run outcomes.
+
+- [Renting Insures Wage Risk](https://leemlockwood.com/papers/kueng-lockwood-2024-renting.pdf) (with Lorenz Kueng and Pinchuan Ong), 2024. Shows that renting hedges wage income risk because rent and home prices are positively correlated with local wages, making renting safer than owning for many households.
+
+- [Health Insurance and Consumption Risk](https://leemlockwood.com/papers/lockwood-2025-health-insurance.pdf). *Review of Economics and Statistics*, accepted 2025. Finds that standard health insurance contracts amplify overall consumption risk by interacting with income risk.
+
+- [Beyond Health: Non-Health Risk and the Value of Disability Insurance](https://leemlockwood.com/papers/deshpande-lockwood-2022-disability-insurance.pdf) (with Manasi Deshpande). *Econometrica*, 2022. Quantifies the overall insurance value of U.S. disability programs; finds nonhealth risk accounts for about half the value.
+
+- [Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](https://leemlockwood.com/papers/lieber-lockwood-2019-medicaid-home-care.pdf) (with Ethan Lieber). *American Economic Review*, 2019. Shows that in-kind provision improves targeting enough to outweigh its distortion costs in home care.
+
+- [Incidental Bequests and the Choice to Self-Insure Late-Life Risks](https://leemlockwood.com/papers/lockwood-2018-incidental-bequests.pdf). *American Economic Review*, 2018. Finds that bequest motives explain low annuity and long-term care insurance take-up among retirees.
+
+- [Government Old-Age Support and Labor Supply](https://leemlockwood.com/papers/fetter-lockwood-2018-old-age-assistance.pdf) (with Daniel Fetter). *American Economic Review*, 2018. Finds large labor supply effects of the Old Age Assistance Program but small welfare costs from implicit earnings taxation.
+
+- [Bequest Motives and the Annuity Puzzle](https://leemlockwood.com/papers/lockwood-2012-bequest-annuity-puzzle.pdf). *Review of Economic Dynamics*, 2012. Shows that plausible bequest motives can explain why most retirees do not annuitize any wealth.
+
+## CV
+
+- [CV (HTML)](https://leemlockwood.com/cv.html): Employment, education, publications, and service
+- [CV (PDF)](https://leemlockwood.com/papers/lockwood-cv.pdf): Downloadable PDF
+
+## Writing & Policy
+
+- [Writing & Policy](https://leemlockwood.com/writing.html): Policy pieces and media engagement
+- [The Future of Tax Policy: A Public Finance Framework for the Age of AI](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/) (with Anton Korinek). Brookings Institution, 2026.
+- [Preserving Fiscal Stability in the Age of Transformative AI](https://www.digitalistpapers.com/vol2/korineklockwood) (with Anton Korinek). *The Digitalist Papers*, 2025.

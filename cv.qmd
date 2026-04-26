@@ -2,6 +2,157 @@
 title: "CV"
 ---
 
-[Download CV (PDF)](papers/lockwood-cv.pdf){.btn .btn-outline-primary .btn-lg}
+[Download CV (PDF)](papers/lockwood-cv.pdf){.btn .btn-outline-primary}
+<!-- *Last updated: 2026-01-25* -->
 
-*Last updated: 2026-01-25*
+<iframe src="papers/lockwood-cv.pdf" width="100%" style="border:none; margin-top:1rem; height:85vh;"></iframe>
+
+<!--
+
+## Employment
+
+**2023–present** — Professor, University of Virginia Department of Economics
+
+**2020–2023** — Associate Professor, University of Virginia Department of Economics
+
+**2017–2018** — Arch W. Shaw National Fellow, Hoover Institution, Stanford University
+
+**2017–2020** — Assistant Professor, University of Virginia Department of Economics
+
+**2016–2018** — Visiting Fellow, Stanford Institute for Economic Policy Research
+
+**2012–2017** — Assistant Professor, Northwestern University Department of Economics
+
+**2010–2012** — Postdoctoral Fellow in Aging and Health Economics, National Bureau of Economic Research
+
+---
+
+## Professional Activities
+
+**2020–present** — Research Associate, National Bureau of Economic Research (Aging)
+
+**2024–present** — Member of the Board of Editors, *American Economic Journal: Economic Policy*
+
+**2025–present** — Associated Faculty, EconTAI
+
+**2024–present** — Member, CEPR Research and Policy Network in AI
+
+**2021–2024** — Associate Editor, *Journal of Political Economy*
+
+**2012–2020** — Faculty Research Fellow, National Bureau of Economic Research (Aging)
+
+---
+
+## Education
+
+**2004–2010** — PhD, Economics, University of Chicago
+
+**2003–2004** — MSc, Economics, London School of Economics
+
+**1999–2003** — BS, Industrial Engineering and Economics, Northwestern University
+
+---
+
+## Honors
+
+**2023** — Outstanding Undergraduate Teaching Award, UVA Economics Department
+
+**2019** — TIAA Paul A. Samuelson Award for Outstanding Scholarly Writing on Lifelong Financial Security (for "Incidental Bequests and the Choice to Self-Insure Late-Life Risks")
+
+**2019** — Research Achievement Award, University of Virginia
+
+**2015** — Associated Student Government Faculty Honor Roll, Northwestern University
+
+**2005** — Lee Prize for Best Macroeconomics Core Exam, University of Chicago
+
+**2003** — Frederick S. Deibler Award (top Economics major), Northwestern University
+
+---
+
+## Refereed Journal Publications
+
+**"Health Insurance and Consumption Risk"**\
+Accepted, *Review of Economics and Statistics*, 2025
+
+**"Beyond Health: Non-Health Risk and the Value of Disability Insurance"**\
+With Manasi Deshpande\
+*Econometrica*, 90(4): 1781–1810, 2022
+
+**"Targeting with In-Kind Transfers: Evidence from Medicaid Home Care"**\
+With Ethan Lieber\
+*American Economic Review*, 109(4): 1461–1485, 2019
+
+**"Incidental Bequests and the Choice to Self-Insure Late-Life Risks"**\
+*American Economic Review*, 108(9): 2513–2550, 2018
+
+**"Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program"**\
+With Daniel Fetter\
+*American Economic Review*, 108(8): 2174–2211, 2018
+
+**"Bequest Motives and the Annuity Puzzle"**\
+*Review of Economic Dynamics*, 15(2): 226–243, 2012
+
+---
+
+## Working Papers
+
+**"Long-Run Intergenerational Effects of Social Security"**\
+With Daniel Fetter and Paul Mohnen, 2024
+
+**"Renting Insures Wage Risk"**\
+With Lorenz Kueng and Pinchuan Ong, 2024
+
+**"Economic Analysis of AI Safety Policies"**\
+*(Draft coming soon.)*
+
+---
+
+## Other Publications
+
+**"Public Finance in the Age of AI: A Primer"**\
+With Anton Korinek\
+In *The Economics of Transformative AI*, NBER Volume, 2025
+
+**"The Future of Tax Policy: A Public Finance Framework for the Age of AI"**\
+With Anton Korinek\
+*Brookings Institution*, 2026
+
+**"Preserving Fiscal Stability in the Age of Transformative AI"**\
+With Anton Korinek\
+*The Digitalist Papers*, Volume 2, 2025
+
+**"Perspective piece on 'One size fits all? Drawdown structures in Australia and The Netherlands'"**\
+*Journal of the Economics of Ageing*, 2018
+
+**"Geographic Variation in Health Care: The Role of Private Markets"**\
+With Tomas Philipson, Seth Seabury, Darius Lakdawalla, and Dana Goldman\
+*Brookings Papers on Economic Activity*, 325–361, 2010
+
+---
+
+## Teaching
+
+**2012–present** — Public Economics, PhD level (University of Virginia and Northwestern University)
+
+**2012–present** — Public Economics, advanced undergraduate (University of Virginia and Northwestern University)
+
+**2022–2023** — Seminar in Policy Analysis, advanced undergraduate (University of Virginia)
+
+---
+
+## Professional Service
+
+**Referee:** *American Economic Review*, *American Economic Review: Insights*, *American Economic Journal: Economic Policy*, *American Economic Journal: Macroeconomics*, *American Economic Journal: Microeconomics*, *Econometrica*, *Economic Inquiry*, *Journal of Human Resources*, *Journal of Political Economy*, *Journal of Public Economics*, *Quarterly Journal of Economics*, *Review of Economic Dynamics*, *Review of Economic Studies*, *Review of Economics and Statistics*, and other journals.
+
+**Refereeing Awards:**\
+Excellence in Refereeing Award, *American Economic Review: Insights* (2019, 2022, 2023)\
+Excellence in Reviewing Award, *American Economic Journal: Economic Policy* (2019–2020)\
+Outstanding Reviewer Award, *Journal of the Economics of Ageing* (2018)\
+Excellence in Refereeing Award, *American Economic Review* (2014)
+
+**Committee Service:**\
+Selection Committee Member, NBER Summer Institute Public Economics Meeting (2026)\
+Selection Committee Member, TIAA Paul A. Samuelson Award (2021–2023)\
+Selection Committee Member, NBER Post-doc on Economics of an Aging Workforce (2021–2022)
+
+-->

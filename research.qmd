@@ -22,6 +22,13 @@ In *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters
 [NBER #34873](https://www.nber.org/papers/w34873)\
 *Featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [The Guardian](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed), and [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/02/public-finance-in-the-age-of-ai-a-primer.html)*
 
+<details>
+<summary>Abstract</summary>
+
+Transformative artificial intelligence (TAI)—machines capable of performing virtually all economically valuable work—may gradually erode the two main tax bases that underpin modern tax systems: labor income and human consumption. We examine optimal taxation across two stages of artificial intelligence (AI)-driven transformation. First, if AI displaces human labor, we find that consumption taxation may serve as a primary revenue instrument, with differential commodity taxation gaining renewed relevance as labor distortions lose their constraining role. In the second stage, as autonomous artificial general intelligence (AGI) systems both produce most economic value and absorb a growing share of resources, taxing human consumption may become an inadequate means of raising revenue. We show that the taxation of autonomous AGI systems can be framed as an optimal harvesting problem and find that the resulting tax rate on AGI depends on the rate at which humans discount the future. Our analysis provides a theoretically grounded approach to balancing efficiency and equity in the Age of AI. We also apply our insights to evaluate specific proposals such as taxes on robots, compute, and tokens, as well as sovereign wealth funds and windfall clauses.
+
+</details>
+
 ---
 
 ### Other Publications
@@ -45,10 +52,24 @@ with [Anton Korinek](https://www.korinek.com/)\
 **[Long-Run Intergenerational Effects of Social Security](papers/fetter-lockwood-mohnen-2024-social-security.pdf)**\
 with [Daniel Fetter](https://sites.google.com/view/daniel-fetter) and [Paul Mohnen](https://sites.google.com/view/paulmohnen), November 2024
 
+<details>
+<summary>Abstract</summary>
+
+Both historically and today, much of the support of the elderly by their adult children has taken the form of in-kind transfers that require shared location, such as shared housing. To the extent that Social Security substitutes for these forms of support, it might thereby relax a "location constraint," with potentially wide-ranging intergenerational effects. Motivated by this fact, we investigate intergenerational effects of Social Security by combining a novel empirical approach—exploiting within-occupation, cross-industry differences in Social Security coverage in the early years of the program—with a dataset linking information on parents to the long-run outcomes of their children. We find that individuals whose parents were more likely to have received Social Security, or received it earlier, lived farther from their childhood location in adulthood, earned more, and lived in ZIP codes of higher socioeconomic status near the end of their lives. A variety of evidence suggests that migration to better-matched labor markets was a key driver of these gains. The magnitude of the estimates suggests that the impact of government old-age support programs on the labor market outcomes of recipients' children may be central to their overall welfare effects.
+
+</details>
+
 ---
 
 **[Renting Hedges Wage Risk](papers/kueng-lockwood-2024-renting.pdf)**\
 with [Lorenz Kueng](https://lorenzkueng.droppages.com/) and [Pinchuan Ong](https://www.pinchuanong.com/), October 2024
+
+<details>
+<summary>Abstract</summary>
+
+Homeowners and renters have mirror-image exposures to the considerable volatility in housing costs. The welfare effects of these exposures depend on their correlations with the rest of household portfolios. Using 70 years of data on local markets in the U.S., we find that rent and home price changes are strongly positively correlated with wage changes at all horizons. As a result, uninsured wage income risk is hedged by renting and exacerbated by owning. These interactions with wage income risk are strong enough that for many households, renting is not only safer than owning, it is safer than full housing insurance. This highlights an important cost of owner-occupied housing and the many major policies that encourage it.
+
+</details>
 
 ---
 
@@ -57,12 +78,27 @@ with [Lorenz Kueng](https://lorenzkueng.droppages.com/) and [Pinchuan Ong](https
 **[Health Insurance and Consumption Risk](papers/lockwood-2025-health-insurance.pdf)**\
 ***Review of Economics and Statistics***, accepted March 2025
 
+<details>
+<summary>Abstract</summary>
+
+The effect of health insurance on consumption risk depends in part on how it interacts with other risks beyond health care cost risk, such as income risk. Using a variety of approaches, I find that for U.S. households, the interaction with other risks transforms the risk protection from health insurance. Standard contracts amplify the impact of other risks, due to both subsidizing normal goods and undoing the protection against other risks from discounts, charity care, and bad debt. Alternative contracts that account for other risks, such as contracts that limit out-of-pocket spending relative to income, can provide better risk protection.
+
+</details>
+
 ---
 
 **[Beyond Health: Non-Health Risk and the Value of Disability Insurance](papers/deshpande-lockwood-2022-disability-insurance.pdf)**\
 with [Manasi Deshpande](https://sites.google.com/view/mdeshpande)\
 ***Econometrica***, 90(4): 1781–1810, July 2022\
-[Appendix & Publisher](https://www.econometricsociety.org/publications/econometrica/2022/07/01/beyond-health-nonhealth-risk-and-value-disability-insurance) · [NBER #28852](https://www.nber.org/papers/w28852)
+[Online Appendix](https://www.econometricsociety.org/publications/econometrica/2022/07/01/beyond-health-nonhealth-risk-and-value-disability-insurance) · [NBER #28852](https://www.nber.org/papers/w28852) · [Publisher's website](https://www.econometricsociety.org/publications/econometrica/2022/07/01/beyond-health-nonhealth-risk-and-value-disability-insurance)\
+*Featured by [Microeconomic Insights](https://microeconomicinsights.org/beyond-health-nonhealth-risk-and-the-value-of-disability-insurance/), [Becker Friedman Institute for Economics](https://bfi.uchicago.edu/insight/research-summary/beyond-health-non-health-risk-and-the-value-of-disability-insurance/?occurrence_id=0), and [Washington Center for Equitable Growth](https://equitablegrowth.org/working-papers/beyond-health-non-health-risk-and-the-value-of-disability-insurance/)*
+
+<details>
+<summary>Abstract</summary>
+
+The public debate over disability insurance has centered on concerns about individuals without severe health conditions receiving benefits. We go beyond health risk alone to quantify the overall insurance value of U.S. disability programs, including value from insuring nonhealth risk. We find that disability recipients, especially those with less-severe health conditions, are much more likely to have experienced a wide variety of nonhealth shocks than nonrecipients. Selection into disability receipt on the basis of nonhealth shocks is so strong among individuals with less-severe health conditions that by many measures less-severe recipients are worse off than more-severe recipients. As a result, under baseline assumptions, benefits to less-severe recipients have an annual surplus value (insurance benefit less efficiency cost) over cost-equivalent tax cuts of $7,700 per recipient, about three-fourths that of benefits to more-severe recipients ($9,900). Insurance against nonhealth risk accounts for about one-half of the value of U.S. disability programs.
+
+</details>
 
 ---
 
@@ -71,24 +107,53 @@ with [Ethan Lieber](https://www3.nd.edu/~elieber/)\
 ***American Economic Review***, 109(4): 1461–1485, April 2019\
 [Online Appendix](papers/lieber-lockwood-2019-medicaid-home-care-appendix.pdf) · [NBER #24267](https://www.nber.org/papers/w24267)
 
+<details>
+<summary>Abstract</summary>
+
+Making a transfer in kind reduces its value to recipients but can improve targeting. We develop an approach to quantifying this trade-off and apply it to home care. Using randomized experiments by Medicaid, we find that in-kind provision significantly reduces the value of the transfer to recipients while targeting a small fraction of the eligible population that is sicker and has fewer informal caregivers than the average eligible. Under a wide range of assumptions within a standard model, the targeting benefit exceeds the distortion cost. This highlights an important cost of recent reforms toward more flexible benefits.
+
+</details>
+
 ---
 
 **[Incidental Bequests and the Choice to Self-Insure Late-Life Risks](papers/lockwood-2018-incidental-bequests.pdf)**\
 ***American Economic Review***, 108(9): 2513–2550, September 2018\
-*Winner, [2019 TIAA Paul A. Samuelson Award](https://www.tiaa.org/public/institute/about/events/2019-tiaa-paul-samuelson-award-ceremony)*\
+Winner, [2019 TIAA Paul A. Samuelson Award](https://www.tiaa.org/public/institute/about/events/2019-tiaa-paul-samuelson-award-ceremony)\
 [Online Appendix](papers/lockwood-2018-incidental-bequests-appendix.pdf) · [NBER #20745](https://www.nber.org/papers/w20745)
+
+<details>
+<summary>Abstract</summary>
+
+Despite facing significant uncertainty about their lifespans and health care costs, most retirees do not buy annuities or long-term care insurance. In this paper, I find that retirees' saving and insurance choices are highly inconsistent with standard life-cycle models in which people care only about their own consumption but match well models in which bequests are luxury goods. Bequest motives tend to reduce the value of insurance by reducing the opportunity cost of precautionary saving. The results suggest that bequest motives significantly increase saving and significantly decrease purchases of long-term care insurance and annuities.
+
+</details>
 
 ---
 
 **[Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program](papers/fetter-lockwood-2018-old-age-assistance.pdf)**\
 with [Daniel Fetter](https://sites.google.com/view/daniel-fetter)\
 ***American Economic Review***, 108(8): 2174–2211, August 2018\
-[Online Appendix](papers/fetter-lockwood-2018-old-age-assistance-appendix.pdf) · [NBER #22132](https://www.nber.org/papers/w22132)
+[Online Appendix](papers/fetter-lockwood-2018-old-age-assistance-appendix.pdf) · [NBER #22132](https://www.nber.org/papers/w22132)\
+*Featured by [Cato Research Briefs in Economic Policy](https://www.cato.org/research-briefs-economic-policy/government-old-age-support-labor-supply-evidence-old-age-assistance) and [Cato Policy Report](https://www.cato.org/policy-report/july/august-2016/menu-police)*
+
+<details>
+<summary>Abstract</summary>
+
+Many government programs transfer resources to older people and implicitly or explicitly tax their labor. We shed new light on the labor supply and welfare effects of such programs by investigating the Old Age Assistance Program (OAA). Exploiting the large differences in OAA programs across states and Census data on the entire US population in 1940, we find that OAA reduced the labor force participation rate among men aged 65–74 by 8.5 percentage points, more than one-half of its 1930–1940 decline, but that OAA's implicit taxation of earnings imposed only small welfare costs on recipients.
+
+</details>
 
 ---
 
 **[Bequest Motives and the Annuity Puzzle](papers/lockwood-2012-bequest-annuity-puzzle.pdf)**\
 ***Review of Economic Dynamics***, 15(2): 226–243, April 2012
+
+<details>
+<summary>Abstract</summary>
+
+Few retirees annuitize any wealth, a fact that has so far defied explanation within the standard framework of forward-looking, expected utility-maximizing agents. Bequest motives seem a natural explanation. Yet the prevailing view is that people with plausible bequest motives should annuitize part of their wealth, and thus that bequest motives cannot explain why most people do not annuitize any wealth. I show, however, that people with plausible bequest motives are likely to be better off not annuitizing any wealth at available rates. The evidence suggests that bequest motives play a central role in limiting the demand for annuities.
+
+</details>
 
 ---
 
@@ -96,9 +161,16 @@ with [Daniel Fetter](https://sites.google.com/view/daniel-fetter)\
 
 **[Geographic Variation in Health Care: The Role of Private Markets](papers/philipson-et-al-2010-geographic-variation.pdf)**\
 with [Tomas Philipson](https://harris.uchicago.edu/directory/tomas-philipson), [Seth Seabury](https://schaeffer.usc.edu/people/seth-seabury-ph-d/), [Darius Lakdawalla](https://schaeffer.usc.edu/people/darius-lakdawalla-ph-d/), and [Dana Goldman](https://schaeffer.usc.edu/people/dana-goldman-ph-d/)\
-***Brookings Papers on Economic Activity***, 325–361, Spring 2010
+*Brookings Papers on Economic Activity*, 325–361, Spring 2010
+
+<details>
+<summary>Abstract</summary>
+
+The Dartmouth Atlas of Health Care has documented substantial regional variation in health care utilization and spending, beyond what would be expected from such observable factors as demographics and disease severity. However, since these data are specific to Medicare, it is unclear to what extent this finding generalizes to the private sector. Economic theory suggests that private insurers have stronger incentives to restrain utilization and costs, while public insurers have greater monopsony power to restrain prices. We argue that these two differences alone should lead to greater regional variation in utilization for the public sector, but either more or less variation in spending. We provide evidence that variation in utilization in the public sector is about 2.8 times as great for outpatient visits and 3.9 times as great for hospital days as in the private sector. Variation in spending appears to be greater in the private sector, consistent with the importance of public sector price restraints.
+
+</details>
 
 ---
 
 **[Perspective piece on "One size fits all? Drawdown structures in Australia and The Netherlands"](papers/lockwood-2018-jea-comment.pdf)**\
-***Journal of the Economics of Ageing***, November 2018
+*Journal of the Economics of Ageing*, November 2018

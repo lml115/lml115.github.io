@@ -1,13 +1,42 @@
 ---
-title: "CV"
+title: "Lee M. Lockwood"
+subtitle: "Curriculum Vitae"
+pagetitle: "CV — Lee M. Lockwood"
+format:
+  html:
+    toc: false
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=1in
+    fontsize: 11pt
+    colorlinks: true
+    linkcolor: "MidnightBlue"
+    urlcolor: "MidnightBlue"
+    pdf-engine: pdflatex
+format-links: false
 ---
 
-[Download CV (PDF)](papers/lockwood-cv.pdf){.btn .btn-outline-primary}
-<!-- *Last updated: 2026-01-25* -->
+::: {.content-visible when-format="html"}
+[Download CV (PDF)](cv.pdf){.btn .btn-outline-primary}
 
-<iframe src="papers/lockwood-cv.pdf" width="100%" style="border:none; margin-top:1rem; height:85vh;"></iframe>
+*Last updated: 2026-05-25*
+:::
 
-<!--
+::: {.content-visible when-format="pdf"}
+*Last updated: May 25, 2026*
+:::
+
+Professor, Department of Economics, University of Virginia
+
+248 McCormick Road, Charlottesville, VA 22903
+
+[leelockwood@virginia.edu](mailto:leelockwood@virginia.edu) · 434-326-0919
+
+[Google Scholar](https://scholar.google.com/citations?user=7dlv01MAAAAJ&hl=en)
+<!-- Add when ready: ORCID · NBER author page · IDEAS/RePEc -->
+
+---
 
 ## Employment
 
@@ -29,17 +58,21 @@ title: "CV"
 
 ## Professional Activities
 
-**2020–present** — Research Associate, National Bureau of Economic Research (Aging)
+**2020–present** — Research Associate, [National Bureau of Economic Research](https://www.nber.org) (Aging)
 
-**2024–present** — Member of the Board of Editors, *American Economic Journal: Economic Policy*
+**2025–present** — Faculty Co-Director, [EconTAI](https://econtai.org)
 
-**2025–present** — Associated Faculty, EconTAI
+**2024–present** — Member of the Board of Editors, *[American Economic Journal: Economic Policy](https://www.aeaweb.org/journals/pol)*
 
-**2024–present** — Member, CEPR Research and Policy Network in AI
+**2024–present** — Member, [CEPR Research and Policy Network in AI](https://cepr.org/research/research-policy-networks/artificial-intelligence)
 
-**2021–2024** — Associate Editor, *Journal of Political Economy*
+**2026–present** — Faculty Advisor, [UVA AI Security Initiative (VAISI)](https://vaisi.org)
 
-**2012–2020** — Faculty Research Fellow, National Bureau of Economic Research (Aging)
+**2021–present** — Fellow, [TIAA Institute](https://www.tiaa.org/public/institute/about/fellows)
+
+**2021–2024** — Associate Editor, *[Journal of Political Economy](https://www.journals.uchicago.edu/journal/jpe)*
+
+**2012–2020** — Faculty Research Fellow, [National Bureau of Economic Research](https://www.nber.org) (Aging)
 
 ---
 
@@ -55,82 +88,122 @@ title: "CV"
 
 ## Honors
 
-**2023** — Outstanding Undergraduate Teaching Award, UVA Economics Department
-
-**2019** — TIAA Paul A. Samuelson Award for Outstanding Scholarly Writing on Lifelong Financial Security (for "Incidental Bequests and the Choice to Self-Insure Late-Life Risks")
-
-**2019** — Research Achievement Award, University of Virginia
-
-**2015** — Associated Student Government Faculty Honor Roll, Northwestern University
-
-**2005** — Lee Prize for Best Macroeconomics Core Exam, University of Chicago
-
-**2003** — Frederick S. Deibler Award (top Economics major), Northwestern University
+**2019** — [TIAA Paul A. Samuelson Award](https://www.tiaa.org/public/institute/about/events/2019-tiaa-paul-samuelson-award-ceremony) for Outstanding Scholarly Writing on Lifelong Financial Security (for "Incidental Bequests and the Choice to Self-Insure Late-Life Risks")
 
 ---
 
-## Refereed Journal Publications
+## Artificial Intelligence
 
-**"Health Insurance and Consumption Risk"**\
-Accepted, *Review of Economics and Statistics*, 2025
+### Work in Progress
 
-**"Beyond Health: Non-Health Risk and the Value of Disability Insurance"**\
-With Manasi Deshpande\
-*Econometrica*, 90(4): 1781–1810, 2022
-
-**"Targeting with In-Kind Transfers: Evidence from Medicaid Home Care"**\
-With Ethan Lieber\
-*American Economic Review*, 109(4): 1461–1485, 2019
-
-**"Incidental Bequests and the Choice to Self-Insure Late-Life Risks"**\
-*American Economic Review*, 108(9): 2513–2550, 2018
-
-**"Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program"**\
-With Daniel Fetter\
-*American Economic Review*, 108(8): 2174–2211, 2018
-
-**"Bequest Motives and the Annuity Puzzle"**\
-*Review of Economic Dynamics*, 15(2): 226–243, 2012
-
----
-
-## Working Papers
-
-**"Long-Run Intergenerational Effects of Social Security"**\
-With Daniel Fetter and Paul Mohnen, 2024
-
-**"Renting Insures Wage Risk"**\
-With Lorenz Kueng and Pinchuan Ong, 2024
-
-**"Economic Analysis of AI Safety Policies"**\
+**Economic Analysis of AI Safety Policies**\
 *(Draft coming soon.)*
 
----
+### Publications
 
-## Other Publications
+**[Public Finance in the Age of AI: A Primer](https://leemlockwood.com/papers/korinek-lockwood-2025-public-finance-ai.pdf)**\
+With [Anton Korinek](https://www.korinek.com/)\
+In *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, 2025
 
-**"Public Finance in the Age of AI: A Primer"**\
-With Anton Korinek\
-In *The Economics of Transformative AI*, NBER Volume, 2025
+### Other Publications
 
-**"The Future of Tax Policy: A Public Finance Framework for the Age of AI"**\
-With Anton Korinek\
+**[The Future of Tax Policy: A Public Finance Framework for the Age of AI](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/)**\
+With [Anton Korinek](https://www.korinek.com/)\
 *Brookings Institution*, 2026
 
-**"Preserving Fiscal Stability in the Age of Transformative AI"**\
-With Anton Korinek\
+**[Preserving Fiscal Stability in the Age of Transformative AI](https://www.digitalistpapers.com/vol2/korineklockwood)**\
+With [Anton Korinek](https://www.korinek.com/)\
 *The Digitalist Papers*, Volume 2, 2025
 
-**"Perspective piece on 'One size fits all? Drawdown structures in Australia and The Netherlands'"**\
+## Social Insurance & Economics of Aging
+
+### Refereed Journal Publications
+
+**[Health Insurance and Consumption Risk](https://leemlockwood.com/papers/lockwood-2025-health-insurance.pdf)**\
+Accepted, *Review of Economics and Statistics*, 2025
+
+**[Beyond Health: Non-Health Risk and the Value of Disability Insurance](https://leemlockwood.com/papers/deshpande-lockwood-2022-disability-insurance.pdf)**\
+With [Manasi Deshpande](https://sites.google.com/view/mdeshpande)\
+*Econometrica*, 90(4): 1781–1810, 2022
+
+**[Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](https://leemlockwood.com/papers/lieber-lockwood-2019-medicaid-home-care.pdf)**\
+With [Ethan Lieber](https://www3.nd.edu/~elieber/)\
+*American Economic Review*, 109(4): 1461–1485, 2019
+
+**[Incidental Bequests and the Choice to Self-Insure Late-Life Risks](https://leemlockwood.com/papers/lockwood-2018-incidental-bequests.pdf)**\
+*American Economic Review*, 108(9): 2513–2550, 2018
+
+**[Government Old-Age Support and Labor Supply: Evidence from the Old Age Assistance Program](https://leemlockwood.com/papers/fetter-lockwood-2018-old-age-assistance.pdf)**\
+With [Daniel Fetter](https://sites.google.com/view/daniel-fetter)\
+*American Economic Review*, 108(8): 2174–2211, 2018
+
+**[Bequest Motives and the Annuity Puzzle](https://leemlockwood.com/papers/lockwood-2012-bequest-annuity-puzzle.pdf)**\
+*Review of Economic Dynamics*, 15(2): 226–243, 2012
+
+### Working Papers
+
+**[Long-Run Intergenerational Effects of Social Security](https://leemlockwood.com/papers/fetter-lockwood-mohnen-2024-social-security.pdf)**\
+With [Daniel Fetter](https://sites.google.com/view/daniel-fetter) and [Paul Mohnen](https://sites.google.com/view/paulmohnen), 2024
+
+**[Renting Hedges Wage Risk](https://leemlockwood.com/papers/kueng-lockwood-2024-renting.pdf)**\
+With [Lorenz Kueng](https://lorenzkueng.droppages.com/) and [Pinchuan Ong](https://www.pinchuanong.com/), 2024
+
+### Other Publications
+
+**[Geographic Variation in Health Care: The Role of Private Markets](https://leemlockwood.com/papers/philipson-et-al-2010-geographic-variation.pdf)**\
+With [Tomas Philipson](https://harris.uchicago.edu/directory/tomas-philipson), [Seth Seabury](https://schaeffer.usc.edu/people/seth-seabury-ph-d/), [Darius Lakdawalla](https://schaeffer.usc.edu/people/darius-lakdawalla-ph-d/), and [Dana Goldman](https://schaeffer.usc.edu/people/dana-goldman-ph-d/)\
+*Brookings Papers on Economic Activity*, 325–361, 2010
+
+**[Perspective piece on "One size fits all? Drawdown structures in Australia and The Netherlands"](https://leemlockwood.com/papers/lockwood-2018-jea-comment.pdf)**\
 *Journal of the Economics of Ageing*, 2018
 
-**"Geographic Variation in Health Care: The Role of Private Markets"**\
-With Tomas Philipson, Seth Seabury, Darius Lakdawalla, and Dana Goldman\
-*Brookings Papers on Economic Activity*, 325–361, 2010
+---
+
+## Invited Talks
+
+*Selected, 2023–present*
+
+**2026** — University of Toronto; Virginia Commonwealth University
+
+**2025** — Brookings Institution; NBER Economics of Transformative AI; University of Manchester; University of Maryland
+
+**2024** — University of Illinois at Chicago; University of Western Ontario; Yale University
+
+**2023** — Clemson University; Harvard University; Purdue University; Stanford University
+
+---
+
+## Public Engagement
+
+*Selected talks, workshops, and policy engagements*
+
+**2026** — "Labor market impacts of AI and policy implications," UVA School of Data Science; "Research and Engagement in the Age of AI," UVA Arts & Sciences AI Retreat; "The economics of AI safety," Virginia AI Security Initiative; "AI in Primary Care," Edward W. Hook Recent Advances in Clinical Medicine Conference; "Public finance and career planning in the age of AI," UVA Economics Club; Invited participant, What If We Succeed? Workshop on the Economics of Transformative AI, Pacific Grove, CA; Invited participant, Windfall Trust Economic Scenarios for Transformative AI Workshop, Washington DC
+
+**2025** — Invited participant, Windfall Trust Economic Scenarios for Transformative AI workshop, San Francisco
+
+---
+
+## Selected Media Coverage
+
+**[Public Finance in the Age of AI: A Primer](https://leemlockwood.com/papers/korinek-lockwood-2025-public-finance-ai.pdf)** (with Anton Korinek) — Featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [The Guardian](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed), and [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/02/public-finance-in-the-age-of-ai-a-primer.html)
+
+**[Beyond Health: Non-Health Risk and the Value of Disability Insurance](https://leemlockwood.com/papers/deshpande-lockwood-2022-disability-insurance.pdf)** (with Manasi Deshpande) — Featured by [Microeconomic Insights](https://microeconomicinsights.org/beyond-health-nonhealth-risk-and-the-value-of-disability-insurance/), [Becker Friedman Institute for Economics](https://bfi.uchicago.edu/insight/research-summary/beyond-health-non-health-risk-and-the-value-of-disability-insurance/?occurrence_id=0), and [Washington Center for Equitable Growth](https://equitablegrowth.org/working-papers/beyond-health-non-health-risk-and-the-value-of-disability-insurance/)
+
+**[Government Old-Age Support and Labor Supply](https://leemlockwood.com/papers/fetter-lockwood-2018-old-age-assistance.pdf)** (with Daniel Fetter) — Featured in the [NBER Digest](https://www.nber.org/digest/jun16/labor-supply-and-old-age-assistance-program), as the AEA [Chart of the Week](https://www.aeaweb.org/research/charts/old-age-assistance-programs-labor-supply-impact), and by the [Institute for Policy Research](https://www.ipr.northwestern.edu/news/2016/lockwood-old-age-assistance-retirement.html), [Cato Research Briefs in Economic Policy](https://www.cato.org/research-briefs-economic-policy/government-old-age-support-labor-supply-evidence-old-age-assistance), and [Cato Policy Report](https://www.cato.org/policy-report/july/august-2016/menu-police)
+
+**[Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](https://leemlockwood.com/papers/lieber-lockwood-2019-medicaid-home-care.pdf)** (with Ethan Lieber) — Featured in [Public Finance and Public Policy](https://store.macmillanlearning.com/us/product/Public-Finance-and-Public-Policy/p/1319281109) (Jonathan Gruber) and by the [American Economic Association](https://www.aeaweb.org/research/in-kind-vs-cash-medicaid-home-care)
 
 ---
 
 ## Teaching
+
+### Awards
+
+**2023** — Outstanding Undergraduate Teaching Award, UVA Economics Department
+
+**2015** — Associated Student Government Faculty Honor Roll, Northwestern University
+
+### Courses
 
 **2012–present** — Public Economics, PhD level (University of Virginia and Northwestern University)
 
@@ -138,21 +211,60 @@ With Tomas Philipson, Seth Seabury, Darius Lakdawalla, and Dana Goldman\
 
 **2022–2023** — Seminar in Policy Analysis, advanced undergraduate (University of Virginia)
 
+### PhD Advising
+
+#### Chair
+
+**Marcella Cartledge**, 2026
+
+**Sasha Ruby**, 2025
+
+#### Co-Chair
+
+**Tommy Willingham**, 2026
+
+#### Committee Member
+
+**Peter Anderson**, 2026
+
+**Anderson Frailey**, 2025
+
+**Hisham Patel**, 2025
+
+**Lichen Wang**, 2023
+
+**Tyler Ludwig**, 2023
+
+**Brennan Williams**, 2022
+
+**Paul Mohnen**, 2018
+
+**Ofer Cohen**, 2015
+
 ---
 
 ## Professional Service
 
-**Referee:** *American Economic Review*, *American Economic Review: Insights*, *American Economic Journal: Economic Policy*, *American Economic Journal: Macroeconomics*, *American Economic Journal: Microeconomics*, *Econometrica*, *Economic Inquiry*, *Journal of Human Resources*, *Journal of Political Economy*, *Journal of Public Economics*, *Quarterly Journal of Economics*, *Review of Economic Dynamics*, *Review of Economic Studies*, *Review of Economics and Statistics*, and other journals.
+### Refereeing (selected)
 
-**Refereeing Awards:**\
-Excellence in Refereeing Award, *American Economic Review: Insights* (2019, 2022, 2023)\
-Excellence in Reviewing Award, *American Economic Journal: Economic Policy* (2019–2020)\
-Outstanding Reviewer Award, *Journal of the Economics of Ageing* (2018)\
+*American Economic Review*; *American Economic Review: Insights*; *American Economic Journal: Economic Policy*; *Econometrica*; *Journal of Health Economics*; *Journal of Political Economy*; *Journal of Public Economics*; *Quarterly Journal of Economics*; *Review of Economic Studies*; *Review of Economics and Statistics*; National Science Foundation.
+
+### Refereeing Awards
+
+Excellence in Refereeing Award, *American Economic Review: Insights* (2019, 2022, 2023)
+
+Excellence in Reviewing Award, *American Economic Journal: Economic Policy* (2019–2020)
+
+Outstanding Reviewer Award, *Journal of the Economics of Ageing* (2018)
+
 Excellence in Refereeing Award, *American Economic Review* (2014)
 
-**Committee Service:**\
-Selection Committee Member, NBER Summer Institute Public Economics Meeting (2026)\
-Selection Committee Member, TIAA Paul A. Samuelson Award (2021–2023)\
-Selection Committee Member, NBER Post-doc on Economics of an Aging Workforce (2021–2022)
+### Committee Service
 
--->
+**2026** — Selection Committee Member, NBER Summer Institute Public Economics Meeting
+
+**2024** — Co-organizer, 21st Annual Southeastern Health Economics Study Group Conference
+
+**2021–2023** — Selection Committee Member, TIAA Paul A. Samuelson Award
+
+**2021–2022** — Selection Committee Member, NBER Post-doc on Economics of an Aging Workforce

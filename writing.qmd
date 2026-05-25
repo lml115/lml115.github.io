@@ -7,19 +7,22 @@ toc-depth: 2
 ## Policy & Featured Writing
 
 **[Public Finance in the Age of AI: A Primer](papers/korinek-lockwood-2025-public-finance-ai.pdf)**\
-with Anton Korinek\
-In *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025
+with [Anton Korinek](https://www.korinek.com/)\
+In *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters/economics-transformative-ai)*, NBER Volume, November 2025\
+*Featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [The Guardian](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed), and [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/02/public-finance-in-the-age-of-ai-a-primer.html)*
+
+*Note: This paper analyzes optimal policy under the assumption of significant labor displacement by AI. It does not constitute a forecast of displacement, nor does it advocate for differentially taxing AI services in today's economy.*
 
 ---
 
 **[The Future of Tax Policy: A Public Finance Framework for the Age of AI](https://www.brookings.edu/articles/future-tax-policy-a-public-finance-framework-for-the-age-of-ai/)**\
-with Anton Korinek\
+with [Anton Korinek](https://www.korinek.com/)\
 *[Brookings Institution](https://www.brookings.edu/research-commentary/)*, January 2026
 
 ---
 
 **[Preserving Fiscal Stability in the Age of Transformative AI](https://www.digitalistpapers.com/vol2/korineklockwood)**\
-with Anton Korinek\
+with [Anton Korinek](https://www.korinek.com/)\
 *[The Digitalist Papers](https://www.digitalistpapers.com/volume2)*, Volume 2, December 2025
 
 ---

@@ -22,6 +22,8 @@ In *[The Economics of Transformative AI](https://www.nber.org/books-and-chapters
 [NBER #34873](https://www.nber.org/papers/w34873)\
 *Featured by [Anthropic](https://www.anthropic.com/research/economic-policy-responses), [The Guardian](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed), and [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/02/public-finance-in-the-age-of-ai-a-primer.html)*
 
+*Note: This paper analyzes optimal policy under the assumption of significant labor displacement by AI. It does not constitute a forecast of displacement, nor does it advocate for differentially taxing AI services in today's economy.*
+
 <details>
 <summary>Abstract</summary>
 
@@ -105,7 +107,8 @@ The public debate over disability insurance has centered on concerns about indiv
 **[Targeting with In-Kind Transfers: Evidence from Medicaid Home Care](papers/lieber-lockwood-2019-medicaid-home-care.pdf)**\
 with [Ethan Lieber](https://www3.nd.edu/~elieber/)\
 ***American Economic Review***, 109(4): 1461–1485, April 2019\
-[Online Appendix](papers/lieber-lockwood-2019-medicaid-home-care-appendix.pdf) · [NBER #24267](https://www.nber.org/papers/w24267)
+[Online Appendix](papers/lieber-lockwood-2019-medicaid-home-care-appendix.pdf) · [NBER #24267](https://www.nber.org/papers/w24267)\
+*Featured in [Public Finance and Public Policy](https://store.macmillanlearning.com/us/product/Public-Finance-and-Public-Policy/p/1319281109) (Jonathan Gruber) and by the [American Economic Association](https://www.aeaweb.org/research/in-kind-vs-cash-medicaid-home-care)*
 
 <details>
 <summary>Abstract</summary>
@@ -134,7 +137,7 @@ Despite facing significant uncertainty about their lifespans and health care cos
 with [Daniel Fetter](https://sites.google.com/view/daniel-fetter)\
 ***American Economic Review***, 108(8): 2174–2211, August 2018\
 [Online Appendix](papers/fetter-lockwood-2018-old-age-assistance-appendix.pdf) · [NBER #22132](https://www.nber.org/papers/w22132)\
-*Featured by [Cato Research Briefs in Economic Policy](https://www.cato.org/research-briefs-economic-policy/government-old-age-support-labor-supply-evidence-old-age-assistance) and [Cato Policy Report](https://www.cato.org/policy-report/july/august-2016/menu-police)*
+*Featured in the [NBER Digest](https://www.nber.org/digest/jun16/labor-supply-and-old-age-assistance-program), as the AEA [Chart of the Week](https://www.aeaweb.org/research/charts/old-age-assistance-programs-labor-supply-impact), and by the [Institute for Policy Research](https://www.ipr.northwestern.edu/news/2016/lockwood-old-age-assistance-retirement.html), [Cato Research Briefs in Economic Policy](https://www.cato.org/research-briefs-economic-policy/government-old-age-support-labor-supply-evidence-old-age-assistance), and [Cato Policy Report](https://www.cato.org/policy-report/july/august-2016/menu-police)*
 
 <details>
 <summary>Abstract</summary>

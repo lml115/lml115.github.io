@@ -5,7 +5,11 @@
       "Bash(git commit -m ' *)",
       "Bash(git push *)",
       "Bash(gh auth *)",
-      "Read(//home/lml115/**)"
+      "Read(//home/lml115/**)",
+      "Bash(command -v pandoc)",
+      "Bash(command -v docx2txt)",
+      "Bash(command -v unzip)",
+      "Bash(quarto render *)"
     ]
   }
 }

@@ -4,7 +4,7 @@
 
 ## About
 
-Lee M. Lockwood is a Professor of Economics at the University of Virginia. He is a Research Associate at the National Bureau of Economic Research (NBER), Associated Faculty at EconTAI, Member of the CEPR Research and Policy Network in AI, and Faculty Advisor to the UVA AI Safety Initiative (VAISI). His research applies price theory and public finance to understand how policy can steer AI development toward good outcomes. He also works on social insurance, health economics, and the economics of aging.
+Lee M. Lockwood is a Professor of Economics at the University of Virginia. He is a Research Associate at the National Bureau of Economic Research (NBER), Faculty Co-Director of EconTAI, Member of the Board of Editors of the American Economic Journal: Economic Policy, Member of the CEPR Research and Policy Network in AI, Fellow of the TIAA Institute, and Faculty Advisor to the UVA AI Security Initiative (VAISI). His research applies price theory and public finance to understand how policy can steer AI development toward good outcomes. He also works on social insurance, health economics, and the economics of aging.
 
 Contact: leelockwood@virginia.edu
 Department of Economics, University of Virginia, 248 McCormick Road, Charlottesville, VA 22903
@@ -24,7 +24,7 @@ Full list of papers with abstracts: https://leemlockwood.com/research.html
 
 - [Long-Run Intergenerational Effects of Social Security](https://leemlockwood.com/papers/fetter-lockwood-mohnen-2024-social-security.pdf) (with Daniel Fetter and Paul Mohnen), 2024. Finds that Social Security coverage relaxed a "location constraint" on adult children, enabling migration to better-matched labor markets and improving their long-run outcomes.
 
-- [Renting Insures Wage Risk](https://leemlockwood.com/papers/kueng-lockwood-2024-renting.pdf) (with Lorenz Kueng and Pinchuan Ong), 2024. Shows that renting hedges wage income risk because rent and home prices are positively correlated with local wages, making renting safer than owning for many households.
+- [Renting Hedges Wage Risk](https://leemlockwood.com/papers/kueng-lockwood-2024-renting.pdf) (with Lorenz Kueng and Pinchuan Ong), 2024. Shows that renting hedges wage income risk because rent and home prices are positively correlated with local wages, making renting safer than owning for many households.
 
 - [Health Insurance and Consumption Risk](https://leemlockwood.com/papers/lockwood-2025-health-insurance.pdf). *Review of Economics and Statistics*, accepted 2025. Finds that standard health insurance contracts amplify overall consumption risk by interacting with income risk.
 
@@ -41,7 +41,7 @@ Full list of papers with abstracts: https://leemlockwood.com/research.html
 ## CV
 
 - [CV (HTML)](https://leemlockwood.com/cv.html): Employment, education, publications, and service
-- [CV (PDF)](https://leemlockwood.com/papers/lockwood-cv.pdf): Downloadable PDF
+- [CV (PDF)](https://leemlockwood.com/cv.pdf): Downloadable PDF
 
 ## Writing & Policy
 

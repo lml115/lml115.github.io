@@ -9,7 +9,7 @@ pagetitle: "Lee Lockwood — Professor of Economics, University of Virginia"
 ![](photo.jpg){width=100% style="border-radius:4px;" fig-alt="Lee M. Lockwood"}
 :::
 ::: {.g-col-12 .g-col-md-9}
-I am an economist at the University of Virginia working on the policy challenges of advanced AI. Drawing on price theory and public finance, I study how policy can capture AI's potential benefits while limiting its risks, with particular attention to AI safety. My earlier research focused on social insurance and the economics of aging.
+I am an economist at the University of Virginia working on the policy challenges of advanced AI. Drawing on price theory and public finance, I study how policy can capture AI's potential benefits while limiting its risks. I also study social insurance and the economics of aging.
 <!-- **PhD, Economics, University of Chicago** -->
 :::
 :::

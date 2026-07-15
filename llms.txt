@@ -22,7 +22,7 @@ Full list of papers with abstracts: https://leemlockwood.com/research.html
 
 ### Social Insurance & Economics of Aging
 
-- [Long-Run Intergenerational Effects of Social Security](https://leemlockwood.com/papers/fetter-lockwood-mohnen-2024-social-security.pdf) (with Daniel Fetter and Paul Mohnen), 2024. Finds that Social Security coverage relaxed a "location constraint" on adult children, enabling migration to better-matched labor markets and improving their long-run outcomes.
+- [Long-Run Intergenerational Effects of Social Security](https://www.dropbox.com/scl/fi/hqu91txmr70qvqjht9f91/IGOASI_paper.pdf?rlkey=3459td174ra22c4cu7dbl1dxh&st=0527zy9f&dl=0) (with Daniel Fetter and Paul Mohnen), 2026. Finds that Social Security coverage relaxed a "location constraint" on adult children, enabling sons to migrate to better-matched labor markets and improving their long-run outcomes, with no such effects for daughters.
 
 - [Renting Hedges Wage Risk](https://leemlockwood.com/papers/kueng-lockwood-2024-renting.pdf) (with Lorenz Kueng and Pinchuan Ong), 2024. Shows that renting hedges wage income risk because rent and home prices are positively correlated with local wages, making renting safer than owning for many households.
 
